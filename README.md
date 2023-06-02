@@ -1,5 +1,5 @@
 # UE5.2DynamicMetadata
-2023 Hackathon Submission
+2023 Theta Hackathon Submission
 
 1) Create a new Unreal Engine 5.2 project
 2) Create a folder named Plugins in your project folder
