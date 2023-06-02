@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Official0xygen",
+	"Description": "NFT Metamask Synchronization Plugin",
+	"Category": "Crypto",
+	"CreatedBy": "0xygen",
+	"CreatedByURL": "https://www.0xygen.io",
+	"DocsURL": "https://www.docs.0xygen.io/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1b5bc4c53d7846b0a90d7664c25c6d12",
+	"SupportURL": "https://www.0xygen.io",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Official0xygen",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms" : [ "Win64" ]
+		}
+	]
+}
